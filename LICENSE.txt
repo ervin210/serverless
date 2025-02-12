@@ -31,3 +31,11 @@ All files located in the node_modules and external directories are
 externally maintained libraries used by this software which have their
 own licenses; we recommend you read them, as their terms may differ from
 the terms above.
+
+## Payment Terms
+
+This software is provided under the following payment terms:
+
+1. A one-time payment of $X is required for commercial use.
+2. Payment must be made to   sort code  070806   bank account  20795139  Ervin Radosavlevici 
+3. Failure to comply with these payment terms will result in termination of the license.
