@@ -1,0 +1,2205 @@
+[33mcommit 26627c17c80aaaa222bc03e0328ecf24bd121f57[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Ervin Remus Radosavlevici <ervin210@icloud.com>
+Date:   Thu Feb 27 09:04:37 2025 +0000
+
+    Add files via upload
+
+[33mcommit ea0918fedfac0cb78f8784a03d021db19257051a[m
+Author: Ervin Remus Radosavlevici <ervin210@icloud.com>
+Date:   Thu Feb 27 07:09:26 2025 +0000
+
+    Add files via upload
+
+[33mcommit 09bb5dcc92fece21f01661f97e425ac294fac7c1[m
+Author: Ervin Remus Radosavlevici <ervin210@icloud.com>
+Date:   Thu Feb 27 07:09:05 2025 +0000
+
+    Add files via upload
+
+[33mcommit d009ef3b65be8e5dc7ea25d3b448ad0965e09028[m
+Author: Ervin Remus Radosavlevici <ervin210@icloud.com>
+Date:   Thu Feb 27 07:08:49 2025 +0000
+
+    Add files via upload
+
+[33mcommit 788ef075aae2fb3734858b0068d4e0efdc7d42a6[m
+Author: Ervin Remus Radosavlevici <ervin210@icloud.com>
+Date:   Thu Feb 27 07:08:31 2025 +0000
+
+    Add files via upload
+
+[33mcommit 136675e52a43a012619b8eacc2f4262040462672[m
+Author: Ervin Remus Radosavlevici <ervin210@icloud.com>
+Date:   Thu Feb 27 07:08:08 2025 +0000
+
+    Add files via upload
+
+[33mcommit 03d33e9cb4736813ea791fc7d59e1aab29dc9bab[m
+Author: Ervin Remus Radosavlevici <ervin210@icloud.com>
+Date:   Thu Feb 27 06:56:17 2025 +0000
+
+    Add files via upload
+
+[33mcommit 9106ed64559c8cdbedd80ed8cdee7a508990116e[m[33m ([m[1;31morigin/Licence.txt[m[33m)[m
+Author: Ervin Remus Radosavlevici <ervin210@icloud.com>
+Date:   Thu Feb 27 06:20:37 2025 +0000
+
+    Update README.md
+
+[33mcommit 3a5306232590cef31552e5a3d51e472d293b504c[m
+Author: Ervin Remus Radosavlevici <ervin210@icloud.com>
+Date:   Thu Feb 27 06:19:26 2025 +0000
+
+    Update README.md
+
+[33mcommit 7ad46b8327960af8c991b3ccd9b3fac0f6041b75[m
+Author: Ervin Remus Radosavlevici <ervin210@icloud.com>
+Date:   Thu Feb 27 06:16:33 2025 +0000
+
+    Update README.md
+
+[33mcommit 8de0d576de4f49442113b6f0c0f787efe5f78b91[m
+Author: Ervin Remus Radosavlevici <ervin210@icloud.com>
+Date:   Thu Feb 27 06:16:06 2025 +0000
+
+    Update README.md
+
+[33mcommit c7cdbab9e5268eaa5ba258337174527c328d937b[m
+Author: Ervin Remus Radosavlevici <ervin210@icloud.com>
+Date:   Thu Feb 27 06:15:13 2025 +0000
+
+    Create Licence.txt
+
+[33mcommit e0d769974f01dd88f6de55184390d13fa1c1f459[m
+Author: Ervin Remus Radosavlevici <ervin210@icloud.com>
+Date:   Thu Feb 27 06:14:18 2025 +0000
+
+    Create License.md
+
+[33mcommit d33b8906c75441f43a62235fa8075b97fd62d5f3[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 23:05:43 2025 +0000
+
+    Update CONTRIBUTING.md
+
+[33mcommit 2b8201db24d1e62ed71f1eaf82d5713bdc224872[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 23:05:23 2025 +0000
+
+    Update 0.5.x-RESOURCES.md
+
+[33mcommit 8efd033e111e93b73f1073239a861a583cceedf4[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 23:04:58 2025 +0000
+
+    Update .travis.yml
+
+[33mcommit e625e4f3900f64cd59883d98362ed4acee57c7c7[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 23:04:47 2025 +0000
+
+    Update .jsbeautifyrc
+
+[33mcommit 42138ec4833c9140d2811c8dcd17cfb9bba7366a[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 23:04:22 2025 +0000
+
+    Update .eslintrc.js
+
+[33mcommit ee33fc35c7d94f5611d6416416f4be4c62346cf1[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 23:04:01 2025 +0000
+
+    Update .editorconfig
+
+[33mcommit 08873cf36909aa4423f3fee0a798ff9b9ecd0c6f[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 23:03:29 2025 +0000
+
+    Update setupTests.js
+
+[33mcommit 39aa74c1de579f002c9cbd01a1dbbc7624581b99[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 23:02:49 2025 +0000
+
+    Update index.test.js
+
+[33mcommit 15560938a7a9b27b35c2791f45498c9efb8c0cab[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 23:02:40 2025 +0000
+
+    Update index.js
+
+[33mcommit 01c86ec71f95cf4f827fd8cdfc60d95aa462f8f8[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 23:02:09 2025 +0000
+
+    Update docker-compose.yml
+
+[33mcommit 9f9d97e1b9bc51f37c9dc549d4921d2d7c176ce5[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 23:02:00 2025 +0000
+
+    Update VERSIONING.md
+
+[33mcommit b38aa0571ef1ed5d7d314cab34724eb04009f4b9[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 23:01:48 2025 +0000
+
+    Update CHANGELOG.md
+
+[33mcommit a650916acc9f5ed554fd49a8abefa8f1dbedd611[m[33m ([m[1;31morigin/whitesource/configure[m[33m)[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 23:01:37 2025 +0000
+
+    Update .whitesource
+
+[33mcommit 5e5bf28f569eacc42ff8440c0772609957b8bdef[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 23:01:28 2025 +0000
+
+    Update .gitignore
+
+[33mcommit 9c25835617283e22a51275c32da133007b4a8e23[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:27:12 2025 +0000
+
+    Update CODE_OF_CONDUCT.md
+
+[33mcommit 6ec9187505aba3b7ec5f64c891a610b1a3732211[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:21:43 2025 +0000
+
+    Update docker-image.yml
+
+[33mcommit a27c11fc4e2d49f1495b3f877d366895e3568196[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:21:06 2025 +0000
+
+    Update generate-readme.js
+
+[33mcommit e88272d0839ece471ce7f7595022dab4d3197ecd[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:20:55 2025 +0000
+
+    Update generate-release-contributors-list
+
+[33mcommit d6d072efcd49b1ea58aae91a1383d8a38cae0a49[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:20:45 2025 +0000
+
+    Update preuninstall.js
+
+[33mcommit ba0dbb0cd57288c76c6aef219c1c0275135955ca[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:20:31 2025 +0000
+
+    Update update-dep-shrinkwrap
+
+[33mcommit 6cbcd309c66080589e205ebe354e2bf5b9b9d008[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:20:22 2025 +0000
+
+    Update postinstall.js
+
+[33mcommit bd068d263af5f4ab03709c5857463f3fec663480[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:20:11 2025 +0000
+
+    Update docker-cleanup
+
+[33mcommit 28029857a594701e582fdd040f25bf1f63c9fd95[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:19:53 2025 +0000
+
+    Update getting-started.md
+
+[33mcommit 8c752ff10b3f0b1bb07752d93591d89578f0b764[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:19:42 2025 +0000
+
+    Update README.md
+
+[33mcommit 6e43d5b741754e0a39ba6b9ddcbf6804c8519af4[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:19:22 2025 +0000
+
+    Update serverless
+
+[33mcommit 29179938377fa5c8f41ee899ce9a6ce294e47f7d[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:18:46 2025 +0000
+
+    Update package.json
+
+[33mcommit ad2e8e51eeb4f7f2cc73e0dccbc474d2cba95241[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:18:35 2025 +0000
+
+    Update SECURITY.md
+
+[33mcommit 4fd75e355edc2c8e18dfd20a2885e6ca268c0467[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:18:26 2025 +0000
+
+    Update RELEASE_PROCESS.md
+
+[33mcommit e13609e5c3eda8405ab5c01334e3653d4e3ae98e[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:18:14 2025 +0000
+
+    Update Serverless.js
+
+[33mcommit c0c1bcdd3e6e859cab9820ab34d526ce84fad521[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:17:59 2025 +0000
+
+    Update plugins.md
+
+[33mcommit e5a76bc2c3d3b041514c22e009b6a2ae34d50b59[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:17:51 2025 +0000
+
+    Update packaging.md
+
+[33mcommit 7d02622be496d5a962ba6deda878715d5a3b5fb2[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:17:37 2025 +0000
+
+    Update deploying.md
+
+[33mcommit 215c6742647f458c12f0e1339621f13bf2e587e5[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:17:25 2025 +0000
+
+    Update credentials.md
+
+[33mcommit e476679819077070300dcdfaba3a4c476da95056[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:17:02 2025 +0000
+
+    Update README.md
+
+[33mcommit 9b2eb7d9f03b9e03ef9021acce4f1c0226b42df5[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:16:47 2025 +0000
+
+    Update README.md
+
+[33mcommit 26f1cd75fdc2ddc455aa6633ffa1ac3afe6465cb[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:16:27 2025 +0000
+
+    Update .eslintignore
+
+[33mcommit 75d0ec5411e06d60938064a79dc467aab9e71dee[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:15:31 2025 +0000
+
+    Update PULL_REQUEST_TEMPLATE.md
+
+[33mcommit b7b0463a5aabbb9475946d4b0768aca94c289a09[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:15:03 2025 +0000
+
+    Update ISSUE_TEMPLATE.md
+
+[33mcommit 718025204ace8b59ca17c5d1ef04cf3e8d833410[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 19:14:26 2025 +0000
+
+    Update .appveyor.yml
+
+[33mcommit e8f4246fb013c026b60244e0ab8414f45202dee8[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sun Feb 23 04:52:13 2025 +0000
+
+    Create LICENSE
+
+[33mcommit 3b47e977e28dbbf42b27bd47f57255a535d4727b[m
+Merge: 87fbc4c7 cd221220
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Wed Feb 12 19:23:53 2025 +0000
+
+    Merge pull request #4 from ervin210/dependabot/maven/lib/plugins/create/templates/aws-java-maven/maven-51b7fb77f9
+    
+    Bump the maven group across 2 directories with 2 updates
+
+[33mcommit 87fbc4c7e4b72341eb94c3c4903a83bb6f1e55ab[m
+Merge: 69a35e6c 1216763f
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Wed Feb 12 19:20:32 2025 +0000
+
+    Merge pull request #5 from ervin210/add-payment-terms
+    
+    Add payment terms to LICENSE.txt
+
+[33mcommit 1216763f8b0aba6d15f49f4b2c409f82cc105d8f[m[33m ([m[1;31morigin/add-payment-terms[m[33m)[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Wed Feb 12 19:20:08 2025 +0000
+
+    Add payment terms to LICENSE.txt
+    
+    Add a section for payment terms in `LICENSE.txt`.
+    
+    * Add a new section titled "Payment Terms".
+    * Specify a one-time payment of $X for commercial use.
+    * Include payment details: sort code 070806, bank account 20795139, Ervin Radosavlevici.
+    * State that failure to comply with these payment terms will result in termination of the license.
+    
+    ---
+    
+    For more details, open the [Copilot Workspace session](https://copilot-workspace.githubnext.com/ervin210/serverless?shareId=XXXX-XXXX-XXXX-XXXX).
+
+[33mcommit 69a35e6c6dce6a10dc686c47bf3191b668d6dee1[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sat Nov 30 15:26:19 2024 +0000
+
+    Update README.md
+    
+    Subject: Urgent Help Needed – Victim of Remote Harassment and Cyber Intrusion
+    
+    For over four years, I have been subjected to relentless harassment by a group of individuals. They target me 24/7 using low-frequency noises, voices, and vibrations. This has caused immense damage to my life and well-being, as well as that of my family. The harassment occurs remotely, and I strongly believe they are using advanced technology, such as a chip implant or another device, to monitor and interfere with my life.
+    
+    Here are some key points of my experience:
+            •       Constant Surveillance: It feels like they can hear my thoughts and actions in real-time, including when I attempt to change passwords or secure my accounts.
+            •       Cyber Intrusions: My accounts have been compromised repeatedly, with personal information stolen and misused.
+            •       Physical Effects: The noises and vibrations have had a profound effect on my physical and mental health.
+            •       Origins of Harassment: I believe this began with individuals connected to Ellison Estate Agency and persons named Mr. Brown and Giorgos Patoulis.
+    
+    Initially, I thought these experiences might be mental health-related, but I am now convinced this is a deliberate and malicious attack using advanced technology.
+    
+    I am desperate for assistance. I need help to:
+            1.      Stop this harassment and identify the perpetrators.
+            2.      Secure my accounts and devices.
+            3.      Reclaim my life and protect my family from further harm.
+    
+    If anyone can offer guidance, legal advice, or technological expertise, I would be deeply grateful.
+    
+    I recommend contacting law enforcement, legal professionals, and cybersecurity experts who can investigate your claims and provide assistance. You may also want to reach out to organizations specializing in electronic harassment or privacy violations.
+
+[33mcommit cd2212200bac796607adc50d593160f6ad0eca06[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Nov 29 23:29:24 2024 +0000
+
+    Bump the maven group across 2 directories with 2 updates
+    
+    Bumps the maven group with 1 update in the /lib/plugins/create/templates/aws-java-maven directory: [com.fasterxml.jackson.core:jackson-databind](https://github.com/FasterXML/jackson).
+    Bumps the maven group with 2 updates in the /lib/plugins/create/templates/aws-kotlin-jvm-maven directory: [com.fasterxml.jackson.core:jackson-databind](https://github.com/FasterXML/jackson) and [org.jetbrains.kotlin:kotlin-stdlib](https://github.com/JetBrains/kotlin).
+    
+    
+    Updates `com.fasterxml.jackson.core:jackson-databind` from 2.8.5 to 2.12.7.1
+    - [Commits](https://github.com/FasterXML/jackson/commits)
+    
+    Updates `com.fasterxml.jackson.core:jackson-databind` from 2.12.7.1 to 2.18.2
+    - [Commits](https://github.com/FasterXML/jackson/commits)
+    
+    Updates `org.jetbrains.kotlin:kotlin-stdlib` from 1.1.4-3 to 1.6.0
+    - [Release notes](https://github.com/JetBrains/kotlin/releases)
+    - [Changelog](https://github.com/JetBrains/kotlin/blob/master/ChangeLog.md)
+    - [Commits](https://github.com/JetBrains/kotlin/compare/v1.1.4-3...v1.6.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: com.fasterxml.jackson.core:jackson-databind
+      dependency-type: direct:production
+      dependency-group: maven
+    - dependency-name: com.fasterxml.jackson.core:jackson-databind
+      dependency-type: direct:production
+      dependency-group: maven
+    - dependency-name: org.jetbrains.kotlin:kotlin-stdlib
+      dependency-type: direct:production
+      dependency-group: maven
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 0a0cb6631f3f320d16c9ae92e61a8e78db3f439f[m
+Merge: ef162395 c3d9b153
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Fri Nov 29 23:26:23 2024 +0000
+
+    Merge pull request #2 from ervin210/dependabot/maven/lib/plugins/create/templates/aws-kotlin-jvm-maven/com.fasterxml.jackson.core-jackson-databind-2.12.7.1
+    
+    Bump jackson-databind from 2.8.5 to 2.12.7.1 in /lib/plugins/create/templates/aws-kotlin-jvm-maven
+
+[33mcommit ef1623950663a504a8688b208c51d4a968b7fef8[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Fri Nov 29 23:24:22 2024 +0000
+
+    Create docker-image.yml
+
+[33mcommit 2fcc57b42cd5b31975919ddea814c9d6b16e77f2[m
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Fri Nov 29 23:17:31 2024 +0000
+
+    Create SECURITY.md
+
+[33mcommit c3d9b153080d43b677a2b6d506be816321b28797[m[33m ([m[1;31morigin/dependabot/maven/lib/plugins/create/templates/aws-kotlin-jvm-maven/com.fasterxml.jackson.core-jackson-databind-2.12.7.1[m[33m)[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Apr 19 04:07:07 2023 +0000
+
+    Bump jackson-databind
+    
+    Bumps [jackson-databind](https://github.com/FasterXML/jackson) from 2.8.5 to 2.12.7.1.
+    - [Release notes](https://github.com/FasterXML/jackson/releases)
+    - [Commits](https://github.com/FasterXML/jackson/commits)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: com.fasterxml.jackson.core:jackson-databind
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 4abfd086e31795b8af69acfd3558bbddb913b8c1[m
+Merge: 906c92ae 2de410f1
+Author: Ervin R Radosavlevici <ervin210@icloud.com>
+Date:   Sat Jun 11 00:54:06 2022 +0100
+
+    Merge pull request #1 from ervin210/whitesource/configure
+    
+    Configure WhiteSource Bolt for GitHub
+
+[33mcommit 2de410f16bac03d3968b1b8768b4adfa9b83b2f2[m
+Author: whitesource-bolt-for-github[bot] <42819689+whitesource-bolt-for-github[bot]@users.noreply.github.com>
+Date:   Thu Jan 2 12:09:11 2020 +0000
+
+    Add .whitesource configuration file
+
+[33mcommit 906c92aeb3c306b8c854b21e4e55b7ee4fbe9333[m
+Merge: 965ae8ac 3a27890b
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 15 15:45:00 2017 +0200
+
+    Merge pull request #4239 from RafalWilinski/aws-kotlin-nodejs
+    
+    Add aws-kotlin-nodejs-gradle template
+
+[33mcommit 3a27890bb3a41c0ae132e015bcc15ba4539594c9[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Fri Sep 15 10:53:12 2017 +0200
+
+    Rename template to `aws-kotlin-nodejs-gradle`
+
+[33mcommit 965ae8acec4813f668f2fd15bb2153281a9d1474[m
+Merge: 18d3d2fa 8e48a3cd
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Sep 14 12:40:08 2017 +0200
+
+    Merge pull request #4223 from arabold/limit-upload-concurrency
+    
+    Limit upload concurrency (follow-up for #4035)
+
+[33mcommit 8e48a3cd8e7b39bd9717009382c0d15fbfcd7799[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Sep 14 12:31:43 2017 +0200
+
+    Update other S3 calls to use upload as well
+
+[33mcommit 18d3d2fa9046aeae622da6c38b41e1f1c90eef3e[m
+Merge: a0ddabc1 43a2ce28
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Sep 14 12:22:12 2017 +0200
+
+    Merge pull request #4234 from sime/ts-lambda-proxy
+    
+    Remove LAMBDA integration for TypeScript/EcmaScript sample
+
+[33mcommit 43a2ce2822a34544bc9f19f25431aa44cf6330b4[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Sep 14 12:17:00 2017 +0200
+
+    Update Lambda function response
+
+[33mcommit a0ddabc1bab398037681875978c513d8991ba4da[m
+Merge: 3ce23750 629c073c
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Sep 14 10:39:54 2017 +0200
+
+    Merge pull request #4249 from lorengordon/escape-dash
+    
+    Escapes the hyphen in the ssm variable syntax
+
+[33mcommit 3ce237500e5b3619401c209bd3c3feed4b3d80fb[m
+Merge: baa97acb 89ea4664
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Sep 14 10:29:12 2017 +0200
+
+    Merge pull request #4260 from ryanmurakami/deploy-function-docs
+    
+    Updating `deploy function` docs for 1.22 changes
+
+[33mcommit baa97acbb97c17466eff4f006e01fe2531840a9d[m
+Merge: 95ce2877 6d893aee
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Sep 14 10:27:38 2017 +0200
+
+    Merge pull request #4255 from RafalWilinski/no-color-notice
+    
+    Add --no-color flag notice
+
+[33mcommit 89ea4664f0ba7a1ddada86d88fe5b9b73ab88c8b[m
+Author: Ryan Lewis <ryanharrisonlewis@gmail.com>
+Date:   Thu Sep 14 00:53:36 2017 -0700
+
+    updating docs
+
+[33mcommit 95ce2877767980529695b55efdfec5dd48669265[m
+Merge: b16bc20e 0d718255
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Sep 14 09:09:40 2017 +0200
+
+    Merge pull request #4257 from brendo/patch-1
+    
+    [docs] Remove outdated sentence about local runtime
+
+[33mcommit 0d7182550457f5bf965e2940af2b3f66948d8c07[m
+Author: Brendan Abbott <brendan@bloodbone.ws>
+Date:   Thu Sep 14 12:02:26 2017 +1000
+
+    Remove outdated sentence about local runtime
+    
+    The Limitations section covers this, and is more accurate (includes Python as a possibility).
+
+[33mcommit 6d893aee903baffc62636287a6850ef31863685b[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Wed Sep 13 16:53:04 2017 +0200
+
+    Fix typo
+
+[33mcommit bc86be22522c42dcc2c1ba20081aac15fd50e13a[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Wed Sep 13 16:48:23 2017 +0200
+
+    Add --no-color flag notice
+
+[33mcommit b16bc20e09fcab689c066149264f753500a08bef[m[33m ([m[1;33mtag: [m[1;33mv1.22.0[m[33m)[m
+Merge: 15bace26 4f993b9b
+Author: Eslam λ Hefnawy <eahefnawy@gmail.com>
+Date:   Wed Sep 13 20:03:50 2017 +0700
+
+    Merge pull request #4254 from serverless/releasing-1.22
+    
+    Releasing 1.22.0
+
+[33mcommit 4f993b9b5f3979d1100689232765f882fa5fa068[m
+Author: Eslam A. Hefnawy <eahefnawy@gmail.com>
+Date:   Wed Sep 13 20:02:14 2017 +0700
+
+    releasing 1.22
+
+[33mcommit 629c073c6b94148f9babaa9f2d34e1e0267af73b[m
+Author: Loren Gordon <lorengordon@users.noreply.github.com>
+Date:   Wed Sep 13 07:14:49 2017 -0400
+
+    Tests SSM variable syntax for all allowable characters
+
+[33mcommit dc7b78ccf3298dcd548bb067eb2d70f62f13c6b2[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Wed Sep 13 11:51:10 2017 +0200
+
+    Remove artifact package
+
+[33mcommit 5951b64d73f8458289780548e86d635b33ed96be[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Wed Sep 13 11:46:31 2017 +0200
+
+    Fix passed JS object types
+
+[33mcommit 665e5db55765765adf0f9868c28f11ae3fdd42ff[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Wed Sep 13 10:38:23 2017 +0200
+
+    Fix .gitkeep file name
+
+[33mcommit 15bace2657f841bdc544d081244c835dc6a8c602[m
+Merge: 33ce81ab 38e12cfe
+Author: Eslam λ Hefnawy <eahefnawy@gmail.com>
+Date:   Wed Sep 13 15:35:14 2017 +0700
+
+    Merge pull request #4243 from serverless/travis-shrinkwrap-creation
+    
+    Add npm-shrinkwrap.json creation to Travis publish process
+
+[33mcommit 3d1dbd97bd725207ca3dad3d80fe20fe04a30cd6[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Wed Sep 13 10:32:26 2017 +0200
+
+    Add template tests
+
+[33mcommit f0defb987a80576652bf6b04e0e2e84df1fc72c1[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Wed Sep 13 10:23:00 2017 +0200
+
+    Add support for binary data
+
+[33mcommit 1934c5f66a4d4d7854a395ba7a4c547e154645d1[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Wed Sep 13 10:14:30 2017 +0200
+
+    Fix object to JSON conversions
+
+[33mcommit df47f9958e404e91857f3c76852e9add36e16127[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Wed Sep 13 09:29:26 2017 +0200
+
+    Add @JsName annotation
+
+[33mcommit da782b85f4c2ad715f6f62cc54284657dc9e7edc[m
+Author: Loren Gordon <lorengordon@users.noreply.github.com>
+Date:   Mon Sep 11 16:30:34 2017 -0400
+
+    Escapes the hyphen in the ssm variable syntax
+    
+    Fixes #4248
+
+[33mcommit 38e12cfe57badd1d0e67ecf80e647c74b3cf33e0[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Tue Sep 12 16:38:03 2017 +0200
+
+    Rename script to "shrinkwrap" to make it more distinguishable
+
+[33mcommit 29c668195b515207aaeb6eba2c54adfa1da3f349[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Tue Sep 12 15:08:33 2017 +0200
+
+    Update to rely on npm script rather than Travis CI before_deploy hook
+
+[33mcommit 33ce81abfc608722c3a1d2cbe484e94ac58fbe5e[m
+Merge: 96bac396 daffd057
+Author: Eslam λ Hefnawy <eahefnawy@gmail.com>
+Date:   Tue Sep 12 18:33:05 2017 +0700
+
+    Merge pull request #4245 from RafalWilinski/invalid-profile-fail
+    
+    Serverless should fail if provided profile is not valid
+
+[33mcommit daffd05788c86f377e3d961b22776522b89b1bdc[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Mon Sep 11 23:37:11 2017 +0200
+
+    Fix throw condition and add tests
+
+[33mcommit f67e4ad93538a9b019e92a82181a4b65cc65952e[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Mon Sep 11 23:23:14 2017 +0200
+
+    Throw error if specified profile does not exist
+
+[33mcommit de195e301da51fe8131cb30d4473eb8495d3f000[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Sep 11 13:43:36 2017 +0200
+
+    Add npm-shrinkwrap.json creation to Travis publish process
+
+[33mcommit 96bac3963ca59b2602f71feea94e5e8bf609ea9e[m
+Merge: 1261bd99 9746de39
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Sep 11 10:23:00 2017 +0200
+
+    Merge pull request #4224 from lorengordon/escaped-default-string
+    
+    Removes escaping of double-quotes around string value
+
+[33mcommit 509096b49a5e4f266dd79495f2068fccf3c1e2fe[m
+Author: Simon Males <sime@sime.net.au>
+Date:   Sat Sep 9 23:30:09 2017 +0200
+
+    Remove LAMBDA integration from ECMA sample
+
+[33mcommit 42a7068d18ae8d8d18e3feada0032aa81e6837f9[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Sat Sep 9 14:00:51 2017 +0200
+
+    Add aws-kotlin-node template
+
+[33mcommit 983fb8377d3f72d70e2409c66b5ae49c8f8d6a0c[m
+Author: Simon Males <sime@sime.net.au>
+Date:   Fri Sep 8 17:47:39 2017 +0200
+
+    Remove LAMBDA integration for TypeScript sample
+
+[33mcommit 1261bd9927d2f6c880c7696b426eb8b8f9deacc7[m
+Merge: 3b92e2f8 6ae15879
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 8 14:06:26 2017 +0200
+
+    Merge pull request #4046 from horike37/add-plugin-command
+    
+    Add plugin command to provide for users how find and install / uninstall
+
+[33mcommit 6ae15879b0438cca2af1b5ec291d15ff39d9b2ae[m
+Author: horike37 <horike37@gmail.com>
+Date:   Fri Sep 8 20:09:24 2017 +0900
+
+    update the install process
+
+[33mcommit d0549eaa28621a70c77353eec3364e0a8f0876c6[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 8 13:02:54 2017 +0200
+
+    Update other stubs as well
+
+[33mcommit 55c78ba63e8fec381a5c8ed9e3f30aa310dcb945[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 8 12:57:35 2017 +0200
+
+    Rename stubs
+
+[33mcommit 3b92e2f8bb0afa15b34c48e3553c65cf87c0d2f0[m
+Merge: 0e51b032 4fee705e
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 8 12:51:07 2017 +0200
+
+    Merge pull request #4220 from RafalWilinski/aws-kotlin-template
+    
+    Add aws-kotlin-jvm-maven template
+
+[33mcommit 192bc74a8cc355ce6cc1af7f0463f2173b3420d2[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 8 12:47:34 2017 +0200
+
+    Fix tests
+
+[33mcommit 4fee705e78a8b33bf21446b148d7e7d671d9f3fc[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 8 12:41:42 2017 +0200
+
+    Add tempalte to create CLI reference
+
+[33mcommit e394713d7c781273accba2c5d63f7d73b6d5ef4b[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 8 12:40:12 2017 +0200
+
+    Add tests for test directory
+
+[33mcommit 0e51b0327078c9ebf474186f04df8d3ff76cce2d[m
+Merge: 56bb1cf3 8ed01759
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 8 11:57:59 2017 +0200
+
+    Merge pull request #4173 from RafalWilinski/4042-update-lambda-cfg-on-deploy
+    
+    Add --update-config flag to deploy function command
+
+[33mcommit 8ed01759ff0beccc3fc9889cea3077160eb8ca06[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 8 11:52:31 2017 +0200
+
+    Reset package-lock.json file
+
+[33mcommit b3098daaffce297137dce2368fa0409de0f7252f[m
+Author: horike37 <horike37@gmail.com>
+Date:   Fri Sep 8 17:22:10 2017 +0900
+
+    tweaks spotinst doc
+
+[33mcommit 56bb1cf376728d6f4cc49e86c7b9a80f7fcb05c5[m
+Merge: 6e3af6e1 943ba160
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 8 10:06:56 2017 +0200
+
+    Merge pull request #4221 from RafalWilinski/enable-descriptions-for-CloudWatch-events
+    
+    Add Description to CloudWatch events
+
+[33mcommit 943ba16096053e26046eee22fbbf096a33e55641[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 8 10:02:40 2017 +0200
+
+    Rephrase docs
+
+[33mcommit 6e3af6e15760bb7e0271dbef23c30acc3350810f[m
+Merge: 623fb8a5 5ed1d708
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 8 09:21:09 2017 +0200
+
+    Merge pull request #4228 from forevermatt/patch-1
+    
+    Add optional `name` under individual function
+
+[33mcommit 623fb8a52e27ce6edc687d3208ddc856e6e9c547[m
+Merge: 3e85313e 89c9f404
+Author: David Wells <hello@davidwells.io>
+Date:   Thu Sep 7 15:59:55 2017 -0700
+
+    Merge pull request #4233 from serverless/updateExternalMdLinks
+    
+    update external github links
+
+[33mcommit 89c9f4043d8fa091f96bb54514dec4914564573f[m
+Author: davidwells <david@inboundnow.com>
+Date:   Thu Sep 7 15:57:20 2017 -0700
+
+    update external github links
+
+[33mcommit 3e85313e536bab512684e8b16da55f5c2295ba85[m
+Author: David Wells <hello@davidwells.io>
+Date:   Thu Sep 7 13:55:03 2017 -0700
+
+    Update getting-started.md
+
+[33mcommit cc0ada25cf5b4397c15c1d82c918f59942d0c702[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Thu Sep 7 19:09:23 2017 +0200
+
+    Change update-config description
+
+[33mcommit ddd12e6342e9485ef052b717dd7a81a521578dbe[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Thu Sep 7 19:00:49 2017 +0200
+
+    Revert "Fix test by omiting undefined values"
+    
+    This reverts commit 9df7c836a8db751ec4f4df24f796c410c30fb440.
+
+[33mcommit 5f19ff757c9065811e18877dc2bbbd0167d10a71[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Thu Sep 7 18:57:13 2017 +0200
+
+    Fix updateFunctionConfiguration logic
+
+[33mcommit 5ed1d708f3755f3bbb30c3c386c38c0f0ea8ae2a[m
+Author: forevermatt <forevermatt@users.noreply.github.com>
+Date:   Thu Sep 7 11:46:32 2017 -0400
+
+    Add optional `name` under individual function
+
+[33mcommit 86b8ef729c2836d035b64ef22b43db7f2fa84b83[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Thu Sep 7 17:26:42 2017 +0200
+
+    Change deploy:function hook behavior
+
+[33mcommit 4cca7952a7efc33dfabf1c6d9a909ce5f853f9b6[m
+Merge: 9826d40a 232732cb
+Author: Eslam λ Hefnawy <eahefnawy@gmail.com>
+Date:   Thu Sep 7 22:10:29 2017 +0700
+
+    Merge pull request #4198 from HyperBrain/command-aliases
+    
+    Added possibility to alias commands.
+
+[33mcommit 9746de39ddc2f5aceed0561cc5fd0efb91736ea8[m
+Author: Loren Gordon <lorengordon@users.noreply.github.com>
+Date:   Thu Sep 7 09:26:16 2017 -0400
+
+    Expects string variables to fulfill promise
+
+[33mcommit 4f4eb91c9e61a546c4b5150c36a6d60323d8ce0a[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Thu Sep 7 14:29:39 2017 +0200
+
+    Add aws-kotlin-jvm-maven tests & docs
+
+[33mcommit 6088c9f4944ebe39b7f45b635d9f296ecce66e95[m
+Author: Loren Gordon <lorengordon@users.noreply.github.com>
+Date:   Thu Sep 7 08:21:48 2017 -0400
+
+    Updates string syntax tests to call functions under test
+
+[33mcommit 6c427e0696b62c9722c8af81deb2d248a9468938[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Thu Sep 7 14:05:11 2017 +0200
+
+    Rephrase headline
+
+[33mcommit b00ad4e773f646e0dc8eb6226d4b5b3581dc113d[m
+Author: Loren Gordon <lorengordon@users.noreply.github.com>
+Date:   Thu Sep 7 07:32:06 2017 -0400
+
+    Removes escaping of double-quotes around string value
+
+[33mcommit ee4123436f81e79256b8c351785922e4602289b1[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Thu Sep 7 10:53:26 2017 +0200
+
+    Change --update-config note
+
+[33mcommit 55639e1526565e4aea8e2b1fb8df39cb0870230b[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Thu Sep 7 10:33:52 2017 +0200
+
+    Add CloudWatch event description docs & tests
+
+[33mcommit 10987dc533efff098fae4b3bf831e73d1371ba9a[m
+Author: Andre Rabold <arabold@stashimi.com>
+Date:   Wed Sep 6 17:26:53 2017 -0700
+
+    Use S3 `upload` method instead of `putObject` for uploading artifacts
+
+[33mcommit 429cf94a86b7f15d13a7c5cf248479776a160374[m
+Author: horike37 <horike37@gmail.com>
+Date:   Thu Sep 7 09:07:26 2017 +0900
+
+    Move stub operations to a right place
+
+[33mcommit 6481db1f073687f02d6fba293ec20f827c3c6094[m
+Author: horike37 <horike37@gmail.com>
+Date:   Thu Sep 7 08:00:50 2017 +0900
+
+    add this functionality to spotinst docs
+
+[33mcommit 36f62dae75e505f6bc36e73390b013074cddede0[m
+Merge: 922f6f48 9826d40a
+Author: horike37 <horike37@gmail.com>
+Date:   Thu Sep 7 07:49:28 2017 +0900
+
+    Merge branch 'master' into add-plugin-command
+
+[33mcommit 75c5140f4b5f2fdd9933ce140827fd77bd6d6532[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Wed Sep 6 18:55:15 2017 +0200
+
+    Add Description to CloudWatch events
+
+[33mcommit 33fa6da9e00bc7c55690b9c2519499b9c0178007[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Wed Sep 6 18:20:04 2017 +0200
+
+    Add aws-kotlin-jvm-maven template
+
+[33mcommit 232732cbac23517e2b1a766917cc6ca101016ef1[m
+Author: Frank Schmid <fschmid@stashimi.com>
+Date:   Wed Sep 6 18:16:06 2017 +0200
+
+    Push coverage again
+
+[33mcommit c184f36e8c6999b1f455f878288406bb79dd86ca[m
+Author: Scott Ewart <scott.ewart@cotap.com>
+Date:   Thu Aug 3 17:50:33 2017 +0200
+
+    Upload function artifacts with limited concurrency
+
+[33mcommit 07becabf6c72d5560154b34fcea75b7469342ab0[m
+Author: Frank Schmid <fschmid@stashimi.com>
+Date:   Sun Sep 3 18:05:32 2017 +0200
+
+    Added alias commands and unit tests.
+
+[33mcommit 63bc836d9b5ee48345d831ad3a900bb627c02d0d[m
+Merge: 520fbdc7 9826d40a
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Wed Sep 6 16:53:43 2017 +0200
+
+    Merge branch 'master' into 4042-update-lambda-cfg-on-deploy
+
+[33mcommit 9826d40a6ba9134c22d0fd55e00927309413ee61[m
+Merge: eb3f549c 5ddc714b
+Author: Eslam λ Hefnawy <eahefnawy@gmail.com>
+Date:   Wed Sep 6 19:57:30 2017 +0700
+
+    Merge pull request #4217 from serverless/integration-test-cleanup
+    
+    Added Integration Tests Cleanup Script
+
+[33mcommit 5ddc714bf5d1827cbadf4049997258e5074fb7d2[m
+Author: Eslam A. Hefnawy <eahefnawy@gmail.com>
+Date:   Wed Sep 6 19:37:10 2017 +0700
+
+    integration test cleanup script
+
+[33mcommit eb3f549cd7da7ef259c06eec7800dd787c4fa9b0[m
+Merge: 1f2d8112 512d46fa
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Wed Sep 6 13:02:14 2017 +0200
+
+    Merge pull request #4216 from jare/patch-1
+    
+    Fix link
+
+[33mcommit 1f2d81126e5c064d8ab7410c34fecaaa50543ca4[m
+Merge: 621ed786 a2307636
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Wed Sep 6 12:38:03 2017 +0200
+
+    Merge pull request #4084 from tobyhede/4083-allow-fn-import-value-for-function-role
+    
+    Using Fn:ImportValue for role should create empty DependsOn for strea…
+
+[33mcommit 512d46fa5d9c169f55ed811a56ba7ca4a181e582[m
+Author: Javier Arellano <xavi.arellano@gmail.com>
+Date:   Wed Sep 6 11:27:52 2017 +0200
+
+    Fix link
+    
+    The "Spotinst image link" links to "spotinst" instead to "kubeless"
+
+[33mcommit 621ed7861041e4272a48b9d77982cddfbb873eb0[m
+Merge: 4221c30e eee6c411
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Wed Sep 6 10:51:02 2017 +0200
+
+    Merge pull request #4215 from serverless/add-publish-flag-docs
+    
+    Add publish flag documentation
+
+[33mcommit eee6c411ab70604007ba9bd3dc4e9bac55b04651[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Wed Sep 6 10:40:07 2017 +0200
+
+    Add publish flag documentation
+
+[33mcommit 4221c30e8ae6529869e42904d4b8b1e8b10f2add[m
+Merge: cee56408 56cbf7dd
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Wed Sep 6 10:35:58 2017 +0200
+
+    Merge pull request #4214 from serverless/fix-gitignore-renaming
+    
+    Fix gitignore file renaming race condition
+
+[33mcommit 56cbf7ddaf920331f85ab1e432e126f577c8c569[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Wed Sep 6 10:22:50 2017 +0200
+
+    Fix gitignore file renaming race condition
+
+[33mcommit cee56408695c5403311d7af39d64266fa3606ad7[m
+Merge: b7363b3a 1f464773
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Wed Sep 6 10:18:44 2017 +0200
+
+    Merge pull request #4213 from serverless/update-integration-test-cleanup-script
+    
+    Update integration-test-cleanup.js script
+
+[33mcommit 1f464773c4c8ad3ddd469a701380ec2387981698[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Wed Sep 6 10:07:11 2017 +0200
+
+    Update integration-test-cleanup.js script
+
+[33mcommit b7363b3a259cb483a786941f4fca6c87dd76d86c[m[33m ([m[1;33mtag: [m[1;33mv1.21.1[m[33m)[m
+Merge: d605afbb b58b7472
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Wed Sep 6 09:58:44 2017 +0200
+
+    Merge pull request #4212 from serverless/releasing-v1-21-1
+    
+    Releasing v1.21.1
+
+[33mcommit b58b7472753e35cba6d2d5f25898c5cd8e84156f[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Wed Sep 6 09:37:42 2017 +0200
+
+    Releasing v1.21.1
+
+[33mcommit d605afbb5e0563fc5b2696516b364d3fc3559be4[m
+Merge: 17114d1e c010c8ce
+Author: David Wells <hello@davidwells.io>
+Date:   Wed Sep 6 00:04:57 2017 -0700
+
+    Merge pull request #4211 from serverless/spotInstDocs
+    
+    update doc link
+
+[33mcommit c010c8cea7748396ba889ff6a8dac6dfece1e3e0[m
+Author: davidwells <david@inboundnow.com>
+Date:   Wed Sep 6 00:03:53 2017 -0700
+
+    update doc link
+
+[33mcommit 17114d1e01c2252725b130ab87af533f9137e4bd[m
+Merge: faf442f7 f221889d
+Author: David Wells <hello@davidwells.io>
+Date:   Tue Sep 5 23:53:09 2017 -0700
+
+    Merge pull request #4210 from serverless/spotInstDocs
+    
+    update docs
+
+[33mcommit f221889ddc81c49abfe362d04221331f5d1cbb6e[m
+Author: davidwells <david@inboundnow.com>
+Date:   Tue Sep 5 23:50:43 2017 -0700
+
+    update docs
+
+[33mcommit faf442f72a8049e7a65f72e2cde3cd569c6b731b[m
+Merge: 8814d0a5 941b921b
+Author: David Wells <hello@davidwells.io>
+Date:   Tue Sep 5 23:08:18 2017 -0700
+
+    Merge pull request #4208 from serverless/spotInstDocs
+    
+    add docs
+
+[33mcommit 941b921b198facb0b933e183905866703ec815f4[m
+Author: davidwells <david@inboundnow.com>
+Date:   Tue Sep 5 23:07:00 2017 -0700
+
+    update docs
+
+[33mcommit 4941315b15265b4c66a09a8a901306b20b8be80a[m
+Author: davidwells <david@inboundnow.com>
+Date:   Tue Sep 5 10:52:25 2017 -0700
+
+    update docs
+
+[33mcommit ba75f73055392d82ac726673f52dba67985dbd82[m
+Author: davidwells <david@inboundnow.com>
+Date:   Tue Sep 5 09:00:56 2017 -0700
+
+    add docs
+
+[33mcommit 8814d0a5c29f5b236f9458a4924c4113b778e231[m
+Merge: e0201e29 d271b915
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Tue Sep 5 17:48:45 2017 +0200
+
+    Merge pull request #4205 from serverless/CiInfoUpgrade
+    
+    Upgrade ci-info package
+
+[33mcommit e0201e2927de6aef74ce8fddaac6af60ca738946[m
+Merge: 5ff4c3b8 2845ba32
+Author: Eslam λ Hefnawy <eahefnawy@gmail.com>
+Date:   Tue Sep 5 20:09:15 2017 +0700
+
+    Merge pull request #4192 from HyperBrain/deploy-function-deploys-function
+    
+    Deploy --function deploys function
+
+[33mcommit d271b9152a5904ba6fdf7d283bc47f92ed979739[m
+Author: Alex DeBrie <alexdebrie1@gmail.com>
+Date:   Tue Sep 5 12:36:32 2017 +0000
+
+    Upgrade ci-info package
+
+[33mcommit 922f6f48e7a7d5ec6e8d13333a9387d3ac135a32[m
+Author: horike37 <horike37@gmail.com>
+Date:   Tue Sep 5 21:11:17 2017 +0900
+
+    Minor fixes & tweaks
+
+[33mcommit 5ff4c3b8075324c7c91f15a22c89b29e0c162469[m
+Merge: 78cf4cab bc6b0f61
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Tue Sep 5 11:32:30 2017 +0200
+
+    Merge pull request #4204 from serverless/hardening-create-tests
+    
+    Hardening create tests
+
+[33mcommit bc6b0f61a10d374a2d507d70fe2892eb6408d8b0[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Tue Sep 5 10:51:30 2017 +0200
+
+    Hardening create tests
+
+[33mcommit 78cf4cab8ce509960dcfa7f8de9e7fc15e34aea1[m
+Merge: b4c3513b 8c08e4d4
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Tue Sep 5 10:00:08 2017 +0200
+
+    Merge pull request #4189 from RafalWilinski/master
+    
+    Fix getFileContent encoding
+
+[33mcommit 8c08e4d42de6eb41b3b7b902e4f08784f44371c0[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Tue Sep 5 09:36:59 2017 +0200
+
+    Add tests
+
+[33mcommit 7e8a9d06c5565520041aa1792b3ca41c0f1be72a[m
+Merge: 41f51c5d b4c3513b
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Mon Sep 4 17:00:10 2017 +0200
+
+    Merge branch 'master' of https://github.com/serverless/serverless
+
+[33mcommit 2845ba32043ecbfbdd36c604f49ee53002a14a52[m
+Author: Frank Schmid <fschmid@stashimi.com>
+Date:   Mon Sep 4 16:41:32 2017 +0200
+
+    AWS info unit tests have to provide a valid cli object.
+    
+    Otherwise code that logs, will crash.
+
+[33mcommit b4c3513b2da67f238a829eac383af37ee94adde8[m
+Merge: a43ffcb4 5a7d14af
+Author: Eslam λ Hefnawy <eahefnawy@gmail.com>
+Date:   Mon Sep 4 21:38:41 2017 +0700
+
+    Merge pull request #4062 from lorengordon/ssm-vars
+    
+    Supports SSM Parameters as serverless variable references
+
+[33mcommit aa344e585a1be6b63f8e2db6a9fe7eaa13e571eb[m
+Author: horike37 <horike37@gmail.com>
+Date:   Mon Sep 4 20:14:15 2017 +0900
+
+    add top level command
+
+[33mcommit d0bf5832eb33148f2386e1a6ae39e728bb065ca9[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Sep 4 13:05:52 2017 +0200
+
+    Update Kubeless docs and remove repetition
+
+[33mcommit 323ae77790fd40329bf75b792025259082724dc7[m
+Merge: 13037023 a43ffcb4
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Sep 4 12:59:58 2017 +0200
+
+    Merge branch 'master' into deploy-function-deploys-function
+
+[33mcommit 91ce36376dd1d81be310967d3b23ad5ca90797ba[m
+Author: horike37 <horike37@gmail.com>
+Date:   Mon Sep 4 19:30:07 2017 +0900
+
+    drop the check whether to be already installed or uninstalled
+
+[33mcommit a43ffcb4de11f56637b3e85683d78ea5d53d0c4d[m
+Merge: c90486d5 01efc5d0
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Sep 4 11:58:55 2017 +0200
+
+    Merge pull request #4139 from medikoo/fix-tests
+    
+    Fix tests setup - ensure errors are exposed
+
+[33mcommit 01efc5d0a137dd22e72320549a84856b72a420fe[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Sep 4 11:51:56 2017 +0200
+
+    Fix failing test to work on Windows
+
+[33mcommit 1121a8d36a1e59f6cc8d54061473db3447fdd179[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Sep 4 10:33:37 2017 +0200
+
+    Update test for remainingTimes to be less strict about the time
+
+[33mcommit 907c16da21255a0997989af8df607af62e3039a2[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Sep 4 10:27:41 2017 +0200
+
+    Fix failing Utils class tests
+
+[33mcommit 466e88673cecee4e0cc88b8458669dd6051ac57a[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Sep 4 10:21:15 2017 +0200
+
+    Fix Serverless class tests
+
+[33mcommit bcf3a31ff5c73636e67873c9010c7636bc43e022[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Sep 4 09:59:08 2017 +0200
+
+    Fix invokeLocal tests
+
+[33mcommit a93358c15d256d95ec6a200a08580944dee9a946[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Sep 4 09:43:48 2017 +0200
+
+    Fix file-writing tests
+
+[33mcommit a05bc333e339b34506ad6c0b25c11b02ae6a39fa[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Sep 4 09:42:39 2017 +0200
+
+    Fix Utils class tests
+
+[33mcommit 6ee4cd4df8e8769c3e86c3522550a98220eaeedf[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Sep 4 09:18:41 2017 +0200
+
+    Fix Service class tests
+
+[33mcommit 96fbd7818ef41b3f144cf51d57a5a08a86147ba7[m
+Author: horike37 <horike37@gmail.com>
+Date:   Mon Sep 4 06:11:44 2017 +0900
+
+    tweak providers docs
+
+[33mcommit 27fb1c4703e447b545a8630b8fda293289a52756[m
+Author: horike37 <horike37@gmail.com>
+Date:   Mon Sep 4 05:47:50 2017 +0900
+
+    update tests for turning into async call
+
+[33mcommit c3c15c692b6db77eef0f8a1d07c52270eb77dc02[m
+Author: horike37 <horike37@gmail.com>
+Date:   Sun Sep 3 15:59:07 2017 +0900
+
+    [WIP]update tests for turning into async call
+
+[33mcommit 20ee0c37678e3eb3d3900b3ee32d1a3deecc955d[m
+Author: horike37 <horike37@gmail.com>
+Date:   Sat Sep 2 22:47:23 2017 +0900
+
+    minor tweak
+
+[33mcommit f99a3e8d2bb309631f2efefe04829ed7590d5e64[m
+Author: horike37 <horike37@gmail.com>
+Date:   Sat Sep 2 22:33:47 2017 +0900
+
+    update async call
+
+[33mcommit 3784ab765752efd7324e5cb81721707881d48649[m
+Author: horike37 <horike37@gmail.com>
+Date:   Sat Sep 2 12:03:38 2017 +0900
+
+    add also this command to kubeless doc
+
+[33mcommit 994d1e6282ad203def11788ce8697ff325e4d4e4[m
+Author: horike37 <horike37@gmail.com>
+Date:   Sat Sep 2 11:37:13 2017 +0900
+
+    fix test
+
+[33mcommit 17fd9a0f1a7c231e07d8013d89d303d1c39a0e24[m
+Author: horike37 <horike37@gmail.com>
+Date:   Sat Sep 2 11:26:40 2017 +0900
+
+    fixed type for openwhisk doc
+
+[33mcommit 76a3a79abc75284793dd7cdac2731b5897841e5a[m
+Author: horike37 <horike37@gmail.com>
+Date:   Sat Sep 2 11:13:11 2017 +0900
+
+    Revert "add document for commands aliases"
+    
+    This reverts commit ab5dea7153304d130928ec2f8deed2e678cb681d.
+
+[33mcommit d06880ede41b8703f0dd15d782fba245bf07d908[m
+Author: horike37 <horike37@gmail.com>
+Date:   Sat Sep 2 11:12:31 2017 +0900
+
+    Revert "add commands aliases"
+    
+    This reverts commit d67f94a999d194e29fb5154180074e93dd3a1a67.
+
+[33mcommit c5d9ac9795564bc7922786fb6e066e550ced6632[m
+Merge: 34d474fb c90486d5
+Author: horike37 <horike37@gmail.com>
+Date:   Sat Sep 2 10:45:11 2017 +0900
+
+    Merge branch 'master' into add-plugin-command
+
+[33mcommit 5a7d14af09f06bda079397ada310081754f34140[m
+Author: Loren Gordon <lorengordon@users.noreply.github.com>
+Date:   Fri Sep 1 13:51:36 2017 -0400
+
+    Adds overwrite syntax support to SSM variable syntax
+    
+    Check for the expected error message in the case the SSM parameter
+    does not exist and return `undefined`. Any other (unexpected) error
+    message still throws an exception.
+
+[33mcommit a1cf779276e032e1f488ee88731f59561369135c[m
+Author: Loren Gordon <lorengordon@users.noreply.github.com>
+Date:   Fri Sep 1 12:59:59 2017 -0400
+
+    Updates package-lock.json to support newer aws-sdk version
+
+[33mcommit 7cc225751541a654396a22e43efa1125b2ac695f[m
+Author: Loren Gordon <lorengordon@users.noreply.github.com>
+Date:   Mon Aug 14 08:13:19 2017 -0400
+
+    Adds docs/examples for the SSM variable reference feature
+
+[33mcommit ba14eb9ab212004939264c6fedef434d52a9cdca[m
+Author: Loren Gordon <lorengordon@users.noreply.github.com>
+Date:   Mon Aug 14 07:54:56 2017 -0400
+
+    Adds tests for SSM variable functionality
+
+[33mcommit a266d4f224ae1ada619613f11685eed5fc4a9dbe[m
+Author: Loren Gordon <lorengordon@users.noreply.github.com>
+Date:   Tue Aug 8 14:29:49 2017 -0400
+
+    Supports ssm: variable references
+    
+    Adds support for specifying SSM parameters as serverless variables.
+    Basic syntax is `${ssm:<foo>}`. To support decryption of SecureString
+    parameters, the extended syntax is `${ssm:<foo>~true|false}`. The `~`
+    is a delimiter; `true|false` is evaluated and passed to the
+    `WithDecryption` option of the SSM API.
+
+[33mcommit ff8194c3d3e9eb95419b3433dfeac23fa93ee5a4[m
+Merge: 697d42dd ce1f6199
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 1 18:53:28 2017 +0200
+
+    Merge remote-tracking branch 'medikoo/fix-tests' into fix-tests
+
+[33mcommit c90486d50ffe574c656a230e1f8fa85f4e746081[m
+Merge: b529ff1e 12649689
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 1 17:49:47 2017 +0200
+
+    Merge pull request #4193 from serverless/eahefnawy-patch-1
+    
+    fix typo in s3 variables docs
+
+[33mcommit 41f51c5dbe1a2e0e510e7312b169f7e90d437a26[m
+Merge: 0753811a b529ff1e
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Fri Sep 1 16:57:08 2017 +0200
+
+    Merge branch 'master' of https://github.com/serverless/serverless
+
+[33mcommit 12649689d4287fc0ab5aa743c9358d71174ce91a[m
+Author: Eslam λ Hefnawy <eahefnawy@gmail.com>
+Date:   Fri Sep 1 21:16:02 2017 +0700
+
+    fix typo in s3 variables docs
+
+[33mcommit 130370238890766d10e3eba851d812d97b65a939[m
+Author: Frank Schmid <fschmid@stashimi.com>
+Date:   Fri Sep 1 12:03:03 2017 +0200
+
+    Allow deploy command with function argument
+    
+    * Added function option documentation
+    * Added unit test for lifecycle termination
+    * Extended before:deploy:deploy unit tests
+    * Added debug logging for command invokes/spawns and terminations.
+    * Deploy with a function parameter starts deploy:function and terminates the deploy lifecycle.
+    * Spawn allows to exit the current lifecycle and continue with the parent
+
+[33mcommit ce1f619976f7cffbbcc4c4541e9a760b5c8ccbf9[m
+Merge: d6b29ab3 b529ff1e
+Author: Mariusz Nowak <medyk@medikoo.com>
+Date:   Fri Sep 1 12:13:04 2017 +0200
+
+    Merge branch 'master' into fix-tests
+
+[33mcommit 697d42dd80225796686fb11915004ae66b7355a1[m
+Merge: ea7c732d b529ff1e
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 1 11:19:37 2017 +0200
+
+    Merge branch 'master' into fix-tests
+
+[33mcommit b529ff1e36dc7da122e2199e7609d5ff7fdf8450[m
+Merge: 2e0f9093 8265b498
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 1 11:17:17 2017 +0200
+
+    Merge pull request #4186 from dschep/fix-python-invoke-local-context-regressions
+    
+    Fix Python invokeLocal regressions due to context changes
+
+[33mcommit 2e0f90939a2e4aa0be25689e062ac53e463a46c0[m
+Merge: 8610f2c6 b663dc40
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 1 09:52:43 2017 +0200
+
+    Merge pull request #4120 from tobyhede/4094-allow-onError-to-be-more-good
+    
+    Allow use of Ref and Fn::ImportValue in OnError
+
+[33mcommit b663dc40fe220dceddd107e37c953ccb9b9a31f3[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 1 09:36:04 2017 +0200
+
+    Update docs
+
+[33mcommit 4fc34a5517051d4d7fb45164f8b34a07e35eca9d[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Fri Sep 1 09:35:49 2017 +0200
+
+    Minor code changes
+
+[33mcommit 0753811a41ea300f23654d9ba3d6fa7e7878c12b[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Thu Aug 31 23:11:28 2017 +0200
+
+    Fix getFileContent encoding
+
+[33mcommit 8265b4984d143f30d42a35d94c9ace8e680fe9e8[m
+Author: Daniel Schep <dschep@gmail.com>
+Date:   Thu Aug 31 14:24:31 2017 -0400
+
+    Fix Python invokeLocal regressions due to context changes
+    
+    The changes in 1.21 allowing custom context introduced bugs in the
+    Python invoke local implementation:
+    
+    * If no custom context is set it would error out because the handler
+    would never be called
+    * AWS Lambda context objects in python aren't dictionaries, they're
+    Python objects
+
+[33mcommit 8610f2c6d74a02bca461e127ab3b3748b86936aa[m
+Merge: 07897367 dc4ef733
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Aug 31 14:41:33 2017 +0200
+
+    Merge pull request #4184 from slintes/patch-1
+    
+    added Kubeless to "getting started" sidebar menu
+
+[33mcommit dc4ef733a47ebc142fed6b63ecff2c8d0afc6370[m
+Author: Marc Sluiter <marc@slintes.net>
+Date:   Thu Aug 31 14:05:13 2017 +0200
+
+    added Kubeless to "getting started" menu
+
+[33mcommit 078973671859d72f10d9384951cb7f3c1eac95ae[m
+Merge: 6de346b0 b8cb267e
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Aug 31 10:29:18 2017 +0200
+
+    Merge pull request #4174 from iddar/patch-2
+    
+    Update docs with link to AWS Proxy Integration when passing data to invoke and invoke local
+
+[33mcommit 6de346b0fe850ce941b26862dca55093c8675d5c[m
+Merge: 7788838b 9ed93109
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Aug 31 10:28:22 2017 +0200
+
+    Merge pull request #4178 from mislavcimpersak/hotfix/py_templates_pep8
+    
+    making python templates pep8 compliant
+
+[33mcommit b8cb267e29554e1f01dfc6fd12e2e41feaa4143d[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Aug 31 10:08:38 2017 +0200
+
+    Minor fixes
+
+[33mcommit 7788838b411976f2e0f15091a563d6c9c5180118[m
+Merge: 9aabcf0c 33188f11
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Aug 31 09:47:10 2017 +0200
+
+    Merge pull request #4181 from serverless/fix-changelog
+    
+    Remove duplicate entry from CHANGELOG
+
+[33mcommit 33188f11e47166fff29d6f396d8cf0475f5dae81[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Aug 31 09:46:17 2017 +0200
+
+    Remove duplicate entry from CHANGELOG
+
+[33mcommit 9ed93109a15cd1080f3c79bc2f6713698600f8a9[m
+Author: Mislav Cimperšak <mislav.cimpersak@styria.hr>
+Date:   Wed Aug 30 14:36:59 2017 +0200
+
+    making python templates pep8 compliant
+
+[33mcommit 9aabcf0c9b7dc873b112a13a7db7ce726354a134[m[33m ([m[1;33mtag: [m[1;33mv1.21.0[m[33m)[m
+Merge: 16bdc5e9 0be29cf6
+Author: Eslam λ Hefnawy <eahefnawy@gmail.com>
+Date:   Wed Aug 30 19:25:31 2017 +0700
+
+    Merge pull request #4177 from serverless/releasing-1.21
+    
+    Releasing 1.21.0
+
+[33mcommit 0be29cf6de3b6b3b89b3175a7c31320eaf53b044[m
+Author: Eslam A. Hefnawy <eahefnawy@gmail.com>
+Date:   Wed Aug 30 18:56:14 2017 +0700
+
+    releasing 1.21
+
+[33mcommit 16bdc5e9fdaab2be35adc0bf44d217f32d44c218[m
+Merge: f648159f ec687eb6
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Wed Aug 30 13:46:37 2017 +0200
+
+    Merge pull request #4175 from serverless/DavidWells-patch-1
+    
+    Update README.md
+
+[33mcommit ec687eb6e3314c545634fcbf5e71a1ad24e1c42c[m
+Author: David Wells <hello@davidwells.io>
+Date:   Tue Aug 29 23:52:27 2017 -0700
+
+    Update README.md
+
+[33mcommit f648159f882c861dfd9f9c08f9c575e3f42638c3[m
+Merge: 49f2268c d85bd065
+Author: David Wells <hello@davidwells.io>
+Date:   Tue Aug 29 23:28:13 2017 -0700
+
+    Merge pull request #4154 from arapulido/add_docs_kubeless_provider
+    
+    Added Kubeless provider documentation
+
+[33mcommit 32f7d01c76122858d7d11b4ac3849d8cd4d79224[m
+Author: Iddar Olivares <iddar.olivares.servicios@gmail.com>
+Date:   Tue Aug 29 17:40:11 2017 -0500
+
+    change copy
+
+[33mcommit 520fbdc7a3bc86c7c4c2281fa3a969d27ca67f08[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Tue Aug 29 16:59:25 2017 +0200
+
+    Update documentation
+
+[33mcommit 34d474fb96a0705195246765adde6eb25181e50f[m
+Author: horike37 <horike37@gmail.com>
+Date:   Tue Aug 29 23:53:35 2017 +0900
+
+    add the check if the specific plugin already installed or not
+
+[33mcommit 9df7c836a8db751ec4f4df24f796c410c30fb440[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Tue Aug 29 16:48:19 2017 +0200
+
+    Fix test by omiting undefined values
+
+[33mcommit 1ff5027cfde1725c008fcd87bcf52d6092b988ea[m
+Merge: a5ace701 49f2268c
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Tue Aug 29 16:44:05 2017 +0200
+
+    Merge branch 'master' of https://github.com/serverless/serverless into 4042-update-lambda-cfg-on-deploy
+
+[33mcommit a5ace701ac1860aa1daa6257e18fea9e8028ed82[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Tue Aug 29 16:42:23 2017 +0200
+
+    Add --update-config tests
+
+[33mcommit 82c4e3af48f7a3396850bc27a29d73dfb9221372[m
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Tue Aug 29 15:48:15 2017 +0200
+
+    Add deploy function --update-config implementation
+
+[33mcommit d85bd0654472fa96aeb266677c8c455eb66e7318[m
+Author: Ara Pulido <apulido@gmail.com>
+Date:   Tue Aug 29 11:03:28 2017 +0200
+
+    Fixed Kubeless documentation based on feedback
+
+[33mcommit 398aff28f604ffa6be3a5f5472342a85ffd03ca1[m
+Author: horike37 <horike37@gmail.com>
+Date:   Tue Aug 29 11:36:51 2017 +0900
+
+    Fixed tests with updates to promise chains
+
+[33mcommit 488a778775378973d63df74e3c198cd56e94fe8e[m
+Author: horike37 <horike37@gmail.com>
+Date:   Tue Aug 29 09:28:56 2017 +0900
+
+    update to use promise chains in install and uninstall process
+
+[33mcommit 7ccff61b73f2661141bf50f8a5eb7c05fffd7b73[m
+Author: horike37 <horike37@gmail.com>
+Date:   Tue Aug 29 08:28:04 2017 +0900
+
+    fixed that AST is passed as a function parameter
+
+[33mcommit 49f2268ca79a7e56fa4bddfa7a90a57910782bbc[m
+Merge: 184f99ff fa210060
+Author: David Wells <hello@davidwells.io>
+Date:   Mon Aug 28 16:05:51 2017 -0700
+
+    Merge pull request #4167 from serverless/DavidWells-patch-1
+    
+    Update getting-started.md
+
+[33mcommit fa210060b657944f51ea141e16d39cf22f8eca53[m
+Author: David Wells <hello@davidwells.io>
+Date:   Mon Aug 28 16:03:50 2017 -0700
+
+    Update getting-started.md
+
+[33mcommit 184f99ff2ed2aace0ddcbe6131cddfd6edcf03ee[m
+Merge: 2e97653b eeb32aac
+Author: Eslam λ Hefnawy <eahefnawy@gmail.com>
+Date:   Mon Aug 28 20:40:14 2017 +0700
+
+    Merge pull request #4160 from patrickheeney/custom-cli
+    
+    Allow custom CLI class instances
+
+[33mcommit 2e97653b5fce63f4bff95cafabf19b77cb4694d8[m
+Merge: 092974a2 6e9df9f3
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Aug 28 15:15:41 2017 +0200
+
+    Merge pull request #4164 from lorengordon/variable-syntax-docs
+    
+    Corrects the custom variableSyntax example
+
+[33mcommit 092974a278e7c345a9cc97def7f44bafa3552f30[m
+Merge: fbef79cf 143194fc
+Author: Eslam λ Hefnawy <eahefnawy@gmail.com>
+Date:   Mon Aug 28 19:51:16 2017 +0700
+
+    Merge pull request #4152 from serverless/upgrade-fdk
+    
+    upgrade fdk to 0.5.0
+
+[33mcommit 6e9df9f3b205048a0b50f818a39061394f9ae28f[m
+Author: Loren Gordon <lorengordon@users.noreply.github.com>
+Date:   Mon Aug 28 08:50:45 2017 -0400
+
+    Corrects the custom variableSyntax example
+
+[33mcommit fbef79cf9977ee443f37d173fdde631245913d2f[m
+Merge: 57e7cea2 d7b07e0c
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Aug 28 13:51:08 2017 +0200
+
+    Merge pull request #4162 from serverless/fix-indentation-for-spotinst-templates
+    
+    Fix indentation for spotinst templates
+
+[33mcommit d7b07e0c4284edb1ffab1625669cf57cf55bab9b[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Aug 28 13:30:16 2017 +0200
+
+    Fix indentation for spotinst templates
+
+[33mcommit 143194fc3e1eb8b3b67c1644b9ef13426317e51b[m[33m ([m[1;31morigin/upgrade-fdk[m[33m)[m
+Author: Nik Graf <nik@nikgraf.com>
+Date:   Mon Aug 28 13:29:59 2017 +0200
+
+    upgrade to fdk 0.5.1
+
+[33mcommit 57e7cea2a9bf3c0879f298395eb5f3ff082c058b[m
+Merge: 2f6f4f2e 79a859d4
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Aug 28 13:26:11 2017 +0200
+
+    Merge pull request #4127 from guyklainer/master
+    
+    Add support in Spotinst Functions
+
+[33mcommit 79a859d4df81b260b5c1c3ee40610a583088407e[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Aug 28 13:14:41 2017 +0200
+
+    Remove whitespace
+
+[33mcommit b268d1004cc83dbe94753fea8638cd10b5ce7f20[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Aug 28 13:14:36 2017 +0200
+
+    Add tests for template creation
+
+[33mcommit 2c4ff058348c73a30ba702ab51c075dc70b12304[m
+Merge: eb0c02fc 320a1745
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Aug 28 13:09:51 2017 +0200
+
+    Merge branch 'master' into spotinst-functions
+
+[33mcommit 2f6f4f2ea5057ada42ab47899e1d60baae919b9a[m
+Merge: 320a1745 797dbc38
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Aug 28 13:07:03 2017 +0200
+
+    Merge pull request #4153 from jthomas/master
+    
+    PHP support with OpenWhisk provider plugin
+
+[33mcommit 797dbc3837de71d48377f4a98b3542744048bd7a[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Aug 28 12:50:30 2017 +0200
+
+    Add available templates to services.md
+
+[33mcommit 17422e2f517459a1beae41653623bf8ad293f36a[m
+Author: horike37 <horike37@gmail.com>
+Date:   Sun Aug 27 19:52:38 2017 +0900
+
+    Add uninstallPeerDependencies function
+
+[33mcommit eeb32aacde767a618491660092a5ed132434c9c1[m
+Author: patrickheeney <patrickheeney@gmail.com>
+Date:   Sun Aug 27 01:10:16 2017 -0700
+
+    Allow custom CLI class instances
+
+[33mcommit 79f19a6269034bcee0e295fc20ba55632d5f772e[m
+Merge: d5f2d02a 320a1745
+Author: horike37 <horike37@gmail.com>
+Date:   Sat Aug 26 21:49:57 2017 +0900
+
+    Merge branch 'master' into add-plugin-command
+
+[33mcommit 320a17459ec0d8d642fffcf69d89f908547b7a16[m
+Merge: d4d7264a 490f517d
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Sat Aug 26 13:07:00 2017 +0200
+
+    Merge pull request #4157 from serverless/fix-failing-aws-provider-test
+    
+    Fix failing AWS provider test
+
+[33mcommit 490f517d1219c58f12438884409e11f6613e6a2e[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Sat Aug 26 12:39:04 2017 +0200
+
+    Fix failing AWS provider test
+
+[33mcommit d5f2d02a0b730b186c0c38785445b15d526fb159[m
+Author: horike37 <horike37@gmail.com>
+Date:   Sat Aug 26 18:52:22 2017 +0900
+
+    add installPeerDependencies function
+
+[33mcommit d4d7264a816ebb2daac5b743421197642598dee4[m
+Merge: 0399497e d4364b7c
+Author: David Wells <hello@davidwells.io>
+Date:   Fri Aug 25 15:46:53 2017 -0700
+
+    Merge pull request #4155 from serverless/updateCredsLink
+    
+    update aws setup link
+
+[33mcommit d4364b7c469ca478a9bcfdd9f75340d7e485c006[m
+Author: davidwells <david@inboundnow.com>
+Date:   Fri Aug 25 15:20:08 2017 -0700
+
+    update link
+
+[33mcommit ab5dea7153304d130928ec2f8deed2e678cb681d[m
+Author: horike37 <horike37@gmail.com>
+Date:   Sat Aug 26 02:50:59 2017 +0900
+
+    add document for commands aliases
+
+[33mcommit 42939fb91b30cf902bd6e2b3151ac1d92f1cc8e0[m
+Author: Ara Pulido <apulido@gmail.com>
+Date:   Fri Aug 25 17:44:42 2017 +0200
+
+    Added Kubeless provider documentation
+
+[33mcommit a287c99559aa0bea5a82d14535194c5938b04a26[m
+Author: James Thomas <james.thomas@uk.ibm.com>
+Date:   Fri Aug 25 15:42:57 2017 +0100
+
+    Adding PHP runtime support for OpenWhisk provider.
+    
+    Updated documentation to demonstrate PHP support in OpenWhisk.
+    Added new PHP template to create plugin.
+
+[33mcommit 4f042b0bd668420671276fbc09689e97144a5232[m
+Merge: 94c3f949 0399497e
+Author: James Thomas <james.thomas@uk.ibm.com>
+Date:   Fri Aug 25 14:39:42 2017 +0100
+
+    Merge branch 'master' of https://github.com/serverless/serverless
+
+[33mcommit d67f94a999d194e29fb5154180074e93dd3a1a67[m
+Author: horike37 <horike37@gmail.com>
+Date:   Fri Aug 25 21:12:55 2017 +0900
+
+    add commands aliases
+
+[33mcommit 957b111ab6cb1edcbc61a6abf43fdef13523858a[m
+Author: Nik Graf <nik@nikgraf.com>
+Date:   Fri Aug 25 12:36:34 2017 +0200
+
+    upgrade fdk to 0.5.0
+
+[33mcommit d6b29ab33884f0bbc379b326804f814e72479c0e[m
+Author: Mariusz Nowak <medyk@medikoo.com>
+Date:   Fri Aug 25 11:27:07 2017 +0200
+
+    Fix promises handling in AwsInvokeLocal tests
+
+[33mcommit 9197e38d59be49ccb4929d684628b0eb570430c0[m
+Merge: 388f0e50 db0ab44d
+Author: horike37 <horike37@gmail.com>
+Date:   Fri Aug 25 07:06:04 2017 +0900
+
+    Merge branch 'add-plugin-command' of github.com:horike37/serverless into add-plugin-command
+
+[33mcommit 388f0e502a89cbd4b1bd5cc2faaa3d40b2b3bdbc[m
+Merge: 9eec713f 0399497e
+Author: horike37 <horike37@gmail.com>
+Date:   Fri Aug 25 07:05:46 2017 +0900
+
+    fix conflict
+
+[33mcommit db0ab44d3ea9527c6734effe8e9c199a14403c32[m
+Merge: 9eec713f 0399497e
+Author: Takahiro Horike <horike37@gmail.com>
+Date:   Fri Aug 25 06:54:38 2017 +0900
+
+    Merge branch 'master' into add-plugin-command
+
+[33mcommit eb0c02fceb172a82eb7994e9db81ee4f635e5338[m
+Author: guyklainer <guyklainer@gmail.com>
+Date:   Thu Aug 24 18:17:11 2017 +0300
+
+    remove account from serverless.yml
+    add 'spotinst' to validProviders array in plugins/config/config.js
+
+[33mcommit 9eec713f1dad1a3673ca68444339e9db8650ef56[m
+Author: horike37 <horike37@gmail.com>
+Date:   Thu Aug 24 23:54:42 2017 +0900
+
+    add test for serverless.json
+
+[33mcommit ea7c732de5b52f0d7e2626ee7a482ba9aadecd7e[m
+Author: Mariusz Nowak <medyk@medikoo.com>
+Date:   Thu Aug 24 14:34:56 2017 +0200
+
+    Introduce test program with exposed unhandled rejections
+
+[33mcommit dbb4974782508671daae07a5630ae25296711cc4[m
+Merge: 5dce256f 0399497e
+Author: Mariusz Nowak <medyk@medikoo.com>
+Date:   Thu Aug 24 13:05:53 2017 +0200
+
+    Merge branch 'master' into fix-tests
+
+[33mcommit 0399497e9bd1dd8a3ba59ec68da0102d218e84a3[m
+Merge: 380a6c11 e5f4a60d
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Aug 24 10:57:23 2017 +0200
+
+    Merge pull request #4145 from medikoo/graceful-fs-packaging
+    
+    Rely on graceful-fs for concurrent file operations (lambda packaging)
+
+[33mcommit 380a6c119f265db4f52a94e971484f6bb20dc026[m
+Merge: 21dd4006 dec2e145
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Aug 24 10:33:57 2017 +0200
+
+    Merge pull request #4132 from medikoo/fix-delete-failed-discovery
+    
+    Fix end of failed deletion discovery in AWS stack monitor
+
+[33mcommit e5f4a60d427cc6152bb7251c6b1efde135ae738e[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Aug 24 10:33:00 2017 +0200
+
+    Update package-lock file
+
+[33mcommit dec2e145664c16884e3e66635af94be64d13e4b7[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Thu Aug 24 10:13:53 2017 +0200
+
+    Fix tests
+
+[33mcommit 80cccd01e8f8669ef292b520cd78ee9c8e792f2e[m
+Author: horike37 <horike37@gmail.com>
+Date:   Thu Aug 24 09:11:49 2017 +0900
+
+    apply this functionality to serverless.json
+
+[33mcommit 75bced3a0c99eab606893efca56badb1471f647a[m
+Author: horike37 <horike37@gmail.com>
+Date:   Thu Aug 24 07:25:51 2017 +0900
+
+    add yamlAstParser test
+
+[33mcommit 07767f160d0651f6480ed212b270cff973fd1179[m
+Author: horike37 <horike37@gmail.com>
+Date:   Thu Aug 24 05:52:53 2017 +0900
+
+    fixe the yaml-ast bug
+
+[33mcommit b4bf2da7651800e6d90ff14c3cace534c587ce2e[m
+Author: Mariusz Nowak <medyk@medikoo.com>
+Date:   Wed Aug 23 17:39:15 2017 +0200
+
+    Use graceful-fs for concurrent file operations
+
+[33mcommit 32dbed398426914b32d43312b6cf0cc23c51c217[m
+Author: Mariusz Nowak <medyk@medikoo.com>
+Date:   Wed Aug 23 17:36:52 2017 +0200
+
+    Cleanup unnecessary promisification
+
+[33mcommit 14d5102b7bb7ad8faadf3c2d227384c9f1e67115[m
+Author: Mariusz Nowak <medyk@medikoo.com>
+Date:   Wed Aug 23 17:21:29 2017 +0200
+
+    Improve error messages
+    
+    They literally addressed deployment case, while operation may be about stack deletion
+
+[33mcommit 553302ce1255d5b6c6121fe476ebea11e31a1de9[m
+Author: guyklainer <guyklainer@gmail.com>
+Date:   Wed Aug 23 18:01:07 2017 +0300
+
+    - change runtime to be on the function level
+    - put environment & account properties under spotinst namespace
+
+[33mcommit c19d1eec94f017d902aac104ed630e6982bf33f2[m
+Author: guyklainer <guyklainer@gmail.com>
+Date:   Wed Aug 23 16:44:12 2017 +0300
+
+    Add memory and timeout properties to serverless.yml files
+
+[33mcommit 21dd400608bdaa41c877128c4c49d7fbf81a3fd9[m
+Merge: ed3c7c37 5325d3a0
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Wed Aug 23 12:30:50 2017 +0200
+
+    Merge pull request #3980 from mpuittinen/master
+    
+    Fix aws-profile cli option to override env & config
+
+[33mcommit ed3c7c371833ef82bdef21fa4e5dbca0100cd2f5[m
+Merge: 0d177a4b fe5c8b28
+Author: Eslam λ Hefnawy <eahefnawy@gmail.com>
+Date:   Wed Aug 23 16:46:31 2017 +0700
+
+    Merge pull request #3924 from medikoo/improve-packaging-extensibility
+    
+    Improve configurability and performance of package plugin
+
+[33mcommit 0d177a4bc642c11e98848791180cc548f6bf60be[m
+Merge: 69a9d30b b16a25bd
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Wed Aug 23 10:56:04 2017 +0200
+
+    Merge pull request #4142 from medikoo/test-bare-script
+    
+    Script command to run bare tests (without coverage overhead)
+
+[33mcommit b16a25bd1340b5c88dccf8056970f513bf811e9f[m
+Author: Mariusz Nowak <medyk@medikoo.com>
+Date:   Wed Aug 23 10:31:48 2017 +0200
+
+    test-bare script
+
+[33mcommit 69a9d30b075b39a7c0478e9fc16d2136f834359f[m
+Merge: df5764dd ffbd70d0
+Author: Brian Neisler <neisler.brian@gmail.com>
+Date:   Tue Aug 22 12:15:56 2017 -0700
+
+    Merge pull request #4140 from serverless/docs-private-publish
+    
+    Add comment that services are published privately. Fix nav item
+
+[33mcommit ffbd70d070ed5e46e177a12b294c4d3a549c3964[m
+Author: Brian Neisler <brian@airbug.com>
+Date:   Tue Aug 22 12:15:00 2017 -0700
+
+    Switch order of wording in docs
+
+[33mcommit 7974dc9cc48c17d877aaff5db688ebdfd68439e7[m
+Author: Brian Neisler <brian@airbug.com>
+Date:   Tue Aug 22 12:11:29 2017 -0700
+
+    Add comment that services are published privately. Fix nav item
+
+[33mcommit 11e72513423bfa7f16a8b430fdda63b38fe120da[m
+Author: guyklainer <guyklainer@gmail.com>
+Date:   Tue Aug 22 17:49:50 2017 +0300
+
+    add dependencies to package.json in each template
+
+[33mcommit 5dce256f00142e7d54888daabc8e9756c83de609[m
+Author: Mariusz Nowak <medyk@medikoo.com>
+Date:   Tue Aug 22 15:11:33 2017 +0200
+
+    Ensure errorneous calls are properly exposed
+
+[33mcommit df5764dd4b6de6aba2e6c79c0d17648b019b0e15[m
+Merge: 4eefd2b6 b5e1564a
+Author: Eslam λ Hefnawy <eahefnawy@gmail.com>
+Date:   Tue Aug 22 20:02:30 2017 +0700
+
+    Merge pull request #4126 from RafalWilinski/add-context
+    
+    Add --context and --contextPath to `invoke local` cmd
+
+[33mcommit 4eefd2b6bbb7f8c1820d7e4409a76f648cc15068[m
+Merge: c0b88bad dab9c547
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Tue Aug 22 14:22:51 2017 +0200
+
+    Merge pull request #4137 from serverless/minor-config-credentials-cleanup
+    
+    Minor cleanup after merging PRs for config credentials on AWS
+
+[33mcommit dab9c5473a19bf3619a6200ffe7bf7e6819d22a1[m
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Tue Aug 22 13:59:28 2017 +0200
+
+    Minor cleanup after merging PRs for config credentials on AWS
+
+[33mcommit 732a410167024fdedf3e8daf3bce0827a5eeb083[m
+Author: Mariusz Nowak <medyk@medikoo.com>
+Date:   Tue Aug 22 13:04:19 2017 +0200
+
+    Add tests related to DELETE_FAILED outcome
+
+[33mcommit c0b88badf0563ab8b0cacb7d92b3d35c7a535e09[m
+Merge: ae286eaa d309c893
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Tue Aug 22 11:04:48 2017 +0200
+
+    Merge pull request #4134 from RafalWilinski/reverse-function-sorting
+    
+    Reverse version sorting for "sls deploy list functions"
+
+[33mcommit ae286eaa7531cda2cc0ec3b02673204fd9296065[m
+Merge: 0530627b a8167c1e
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Tue Aug 22 10:40:55 2017 +0200
+
+    Merge pull request #4050 from jacobmassey/set-credentials-file-permissions
+    
+    Set read/write owner permissions when .aws/credentials file is created
+
+[33mcommit a8167c1e9d6a0f64f5d34ea2e649a9b5b006e55c[m
+Author: Jacob Massey <jacob@jacobmassey.com>
+Date:   Sun Aug 6 17:53:58 2017 -0400
+
+    Set read/write owner permissions when .aws/credentials file is saved
+
+[33mcommit d309c893013cb19b2fc8227ddbe8bc6b0344069d[m
+Author: Rafał Wiliński <raf.wilinski@gmail.com>
+Date:   Mon Aug 21 23:27:16 2017 +0200
+
+    Fix eslint issues
+
+[33mcommit fc505e0b652660411f56b6a238cb81447862dcd4[m
+Author: Rafał Wiliński <raf.wilinski@gmail.com>
+Date:   Mon Aug 21 23:21:17 2017 +0200
+
+    Reverse listFunctions versions sorting
+
+[33mcommit b5e1564ab6ed2e2ffe8d06a80a5342fe36b365da[m
+Merge: db439478 0530627b
+Author: Rafal Wilinski <raf.wilinski@gmail.com>
+Date:   Mon Aug 21 22:59:37 2017 +0200
+
+    Merge branch 'master' into add-context
+
+[33mcommit fe5c8b28d2a1beabd9698bc6c7af5604098443a8[m
+Merge: 5033bc9c 34dd4644
+Author: Mariusz Nowak <medyk@medikoo.com>
+Date:   Mon Aug 21 16:42:39 2017 +0200
+
+    Merge branch 'master' into improve-packaging-extensibility
+
+[33mcommit 8dfaa277c6a065ab074bc7d87eedc61f7af16304[m
+Author: Mariusz Nowak <medyk@medikoo.com>
+Date:   Mon Aug 21 16:36:06 2017 +0200
+
+    Fix failed deletion discovery
+
+[33mcommit 0530627b33072a4c65321ec7b62425a5cad02502[m
+Merge: 34dd4644 b21c330b
+Author: Eslam λ Hefnawy <eahefnawy@gmail.com>
+Date:   Mon Aug 21 21:31:54 2017 +0700
+
+    Merge pull request #4047 from Nevon/time-remaining-in-millis
+    
+    Fix behavior of getRemainingTimeInMillis in local invokation
+
+[33mcommit 34dd46440ebd1a5aeeea229b8cb20c3fce730d6d[m
+Merge: cb1882d2 89661c02
+Author: Philipp Muens <raute1337@gmx.de>
+Date:   Mon Aug 21 15:34:56 2017 +0200
+
+    Merge pull request #4058 from franciscocpg/aws-nodejs-typescript
+    
+    Adding aws-nodejs-typescript template
