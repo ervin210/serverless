@@ -1,2 +1,3 @@
 you  touch my family  and say mopre they have died and take punch ypou  will   sort you  out   prooper if hear this iodiots say this and to   blackmail me  i sort you out you  idot  stupid cunt 
 
+one more time i hear and fealing vibrations and hear this idiots i say my family died   will sort all out you fuching idiots    for 7  mounts everday say thatb you  idots and see you have stolen  the repository transfer to spacecloud.tel and cant renew domain   i try and not able you thief idiot and block me   on the websites to not work nothing  you fucking idots 5 years eve=day they stpolen me all projects i had and all are big    you fuching thief idiots  lied people and  say stories     i never take money for nobady    from any corporation all have refuzed when requested 
